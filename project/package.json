@@ -27,7 +27,7 @@
     "gatsby-transformer-javascript-frontmatter": "^2.0.5",
     "gatsby-transformer-sharp": "^2.1.8",
     "leaflet": "^1.4.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "prop-types": "^15.6.2",
     "react-helmet": "^5.2.0",
